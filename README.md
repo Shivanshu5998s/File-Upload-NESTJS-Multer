@@ -1,5 +1,5 @@
 # File-Upload-NESTJS-Multer
-.....
+Multer is a middleware for handling multipart/form-data, which is used for uploading files in Node.js applications. It is commonly used with Express.js to handle file uploads.
 
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
